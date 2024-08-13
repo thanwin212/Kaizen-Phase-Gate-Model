@@ -7,8 +7,11 @@ This repository contains all the artifacts related to the Kaizen Phase Gate Mode
 ## Project Overview
 
 - **Company**: Tecon
+- **Consultant**: Kaizen Institute Germany
+- **Project Support**: Than Win
 - **Tool Used**: Signavio Process Intelligence
 - **Methodology**: Kaizen Phase Gate Model
+- **Tool**: SAP Signavio
 - **Start Date**: November 2023
 - **Status**: Ongoing
 
@@ -18,3 +21,6 @@ This repository contains all the artifacts related to the Kaizen Phase Gate Mode
 - `To-Be_Process_Map/`: Contains the optimized future state of the business process.
 - `Scripts/`: Automation scripts and data analysis used during the project.
 - `References/`: Project reference document for detailed context.
+
+Process Model Referecne - [Process documentation - 1.0.0_Enquiry to Billing.pdf](https://github.com/user-attachments/files/16594567/Process.documentation.-.1.0.0_Enquiry.to.Billing.pdf)
+
