@@ -13,7 +13,7 @@ This repository contains all the artifacts related to the Kaizen Phase Gate Mode
 - **Methodology**: Kaizen Phase Gate Model
 - **Tool**: SAP Signavio
 - **Start Date**: November 2023
-- **Status**: Ongoing
+- **Status**: August 2024
 
 ## Repository Contents
 
